@@ -1,5 +1,5 @@
 # 💫 About Me
-👨‍💻 Full-Stack Developer with a passion for creating robust and scalable web applications. Experienced in working with the MERN stack and currently expanding my expertise in TypeScript and Next.js. Enthusiastic about leveraging AWS for cloud solutions and continuously exploring new technologies to enhance my skill set.
+👨‍💻 I’m a DevOps-focused engineer with hands-on skills in cloud infrastructure, containerization, and automation. I work with AWS, Docker, Kubernetes, Terraform, and ArgoCD to build reliable, scalable, and automated deployments. I have experience setting up CI/CD pipelines using Jenkins and GitHub Actions to streamline software delivery. With a background in full-stack development (MERN stack), I understand both development and operations, which helps me create smoother workflows. I’m passionate about learning, improving systems, and building efficient solutions that support growth.
 
 # 🏆 Achievements
 - 🥇 **MSIC 2024 Winner**: Awarded for exceptional innovation at the Maharashtra Student Innovation Challenge, where we developed a cutting-edge solution addressing real-world problems.
