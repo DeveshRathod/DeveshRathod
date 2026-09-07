@@ -9,10 +9,10 @@
 <div align="center">
 
 <!-- Overview: name, role, animated gauge dials -->
-<img src="./graf-01-header.svg" alt="Devesh Rathod — DevOps & Cloud Engineer. Release time -35%, deploy time -40%, 500+ LeetCode solved, 0 config drift." width="100%"/>
+<img src="./graf-01-header.svg" alt="Devesh Rathod — DevOps & Cloud Engineer. I build cloud infrastructure that ships itself. Multi-cloud on AWS and GCP, with production experience in Kubernetes, GitOps, and Infrastructure as Code." width="100%"/>
 
 <!-- Projects: status cards -->
-<img src="./graf-02-projects.svg" alt="Projects — multi-cloud-iac-platform (0 config drift) and k8s-gitops-cicd-platform (-40% deploy time)." width="100%"/>
+<img src="./graf-02-projects.svg" alt="Six projects: Zero-Trust Service Mesh (2/2 attack paths denied), Serverless Code Judge (99 to 500 concurrent), GitOps on EKS (-40% deploy time), Real-Time Chat + Video ($0 NAT Gateway), Serverless SaaS Platform ($0 idle cost), Multi-Cloud IaC Platform (0 public DB exposure)." width="100%"/>
 
 <!-- Toolkit -->
 <img src="./graf-03-toolkit.svg" alt="Toolkit — Cloud, Containers, IaC/CI-CD, Observability, Security, Languages." width="100%"/>
