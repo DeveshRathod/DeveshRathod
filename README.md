@@ -1,28 +1,27 @@
-# 💫 About Me
-👨‍💻 I’m a DevOps-focused engineer with hands-on skills in cloud infrastructure, containerization, and automation. I work with AWS, Docker, Kubernetes, Terraform, and ArgoCD to build reliable, scalable, and automated deployments. I have experience setting up CI/CD pipelines using Jenkins and GitHub Actions to streamline software delivery. With a background in full-stack development (MERN stack), I understand both development and operations, which helps me create smoother workflows. I’m passionate about learning, improving systems, and building efficient solutions that support growth.
+<!--
+  ┌─────────────────────────────────────────────────────────────┐
+  │  Devesh Rathod — GitHub profile README                       │
+  │  Setup: put this file at DeveshRathod/DeveshRathod/README.md  │
+  │  and commit graf-01…04.svg to the repo root alongside it.    │
+  └─────────────────────────────────────────────────────────────┘
+-->
 
-# 🏆 Achievements
-- 🥇 **MSIC 2024 Winner**: Awarded for exceptional innovation at the Maharashtra Student Innovation Challenge, where we developed a cutting-edge solution addressing real-world problems.
-- 🥇 **Innovation Desk 2023 Winner**: Recognized for creating ParkIt, an advanced parking management system that streamlines parking operations and enhances user experience.
-- 🎖️ **SIH 2022 Finalist**: Competed at the national level in the Smart India Hackathon, demonstrating technical expertise and problem-solving skills among top-tier participants.
-- 🧩 **LeetCode**: Achieved proficiency by solving over 500+ coding questions, showcasing a strong grasp of algorithms and data structures.
-- 🥷🏻 **Coding Ninjas**: Achieved Grandmaster title on Coding Ninjas’ CodeStudio platform.
+<div align="center">
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devesh.naik.92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devesh-rathod-9268a5242) [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Devesh_Rathod/)
+<!-- Overview: name, role, animated gauge dials -->
+<img src="./graf-01-header.svg" alt="Devesh Rathod — DevOps & Cloud Engineer. Release time -35%, deploy time -40%, 26+ Terraform modules, 0 config drift." width="100%"/>
 
-# 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- Projects: status cards -->
+<img src="./graf-02-projects.svg" alt="Projects — multi-cloud-iac-platform (0 config drift) and k8s-gitops-cicd-platform (-40% deploy time)." width="100%"/>
 
-# 📊 GitHub Stats
+<!-- Toolkit -->
+<img src="./graf-03-toolkit.svg" alt="Toolkit — Cloud, Containers, IaC/CI-CD, Observability, Security, Languages." width="100%"/>
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveshRathod&show_icons=true&theme=radical&count_private=true&hide_border=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeveshRathod&theme=radical&hide_border=false) |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
+<!-- Live GitHub stats, themed to match the dashboard -->
+<img src="https://github-readme-stats.vercel.app/api?username=DeveshRathod&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=111217&title_color=e6edf3&text_color=c7d0dd&icon_color=73bf69" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshRathod&layout=compact&hide_border=true&theme=github_dark&bg_color=111217&title_color=e6edf3&text_color=c7d0dd" height="165" alt="Top languages"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshRathod&theme=radical&hide_border=false&count_private=true&layout=compact&langs_count=10&card_width=1000)
+<!-- Recognition timeline + contact -->
+<img src="./graf-04-footer.svg" alt="Recognition — SIH 2022 Finalist, Innovation Desk 2023 1st, MSIC 2024 Winner. Available for DevOps / Cloud / Platform roles." width="100%"/>
 
----
-
-[![Download CV](https://img.shields.io/badge/Download_CV-%230077B5.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1CX2W1H7QjGFC1I2GHip9c4_7GYvAUXsS/view?usp=sharing)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
